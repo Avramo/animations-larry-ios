@@ -15,6 +15,7 @@
 		84A5025023E72931000DB0A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84A5024E23E72931000DB0A0 /* LaunchScreen.storyboard */; };
 		84A5025B23E72931000DB0A0 /* Animations___LarryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A5025A23E72931000DB0A0 /* Animations___LarryTests.swift */; };
 		84A5026623E72932000DB0A0 /* Animations___LarryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A5026523E72932000DB0A0 /* Animations___LarryUITests.swift */; };
+		84A5035A23E7330B000DB0A0 /* frames in Resources */ = {isa = PBXBuildFile; fileRef = 84A5035923E7330B000DB0A0 /* frames */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		84A5026123E72931000DB0A0 /* Animations - LarryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Animations - LarryUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84A5026523E72932000DB0A0 /* Animations___LarryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Animations___LarryUITests.swift"; sourceTree = "<group>"; };
 		84A5026723E72932000DB0A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84A5035923E7330B000DB0A0 /* frames */ = {isa = PBXFileReference; lastKnownFileType = folder; path = frames; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		84A5024223E7292F000DB0A0 /* Animations - Larry */ = {
 			isa = PBXGroup;
 			children = (
+				84A5035923E7330B000DB0A0 /* frames */,
 				84A5024323E7292F000DB0A0 /* AppDelegate.swift */,
 				84A5024523E7292F000DB0A0 /* SceneDelegate.swift */,
 				84A5024723E7292F000DB0A0 /* ViewController.swift */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84A5035A23E7330B000DB0A0 /* frames in Resources */,
 				84A5025023E72931000DB0A0 /* LaunchScreen.storyboard in Resources */,
 				84A5024D23E72931000DB0A0 /* Assets.xcassets in Resources */,
 				84A5024B23E7292F000DB0A0 /* Main.storyboard in Resources */,
